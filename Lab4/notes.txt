@@ -1,0 +1,6 @@
+Forza centrifuga è quadratica rispetto al voltaggio a parità di peso, gli effetti non sono lineari.
+Unbaliancing is step to 4-7 mins ()
+Speed is ramp max at 5 then decreases
+Every 10 mins the health goes to 100
+
+Rescale other 2 features by maximum freq
